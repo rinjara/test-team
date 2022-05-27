@@ -1,0 +1,75 @@
+.contacts {
+  background-image: linear-gradient(to bottom, #e5e5e5 13%, #fff5f6 13%);
+}
+
+.contacts__item {
+  border: 1px solid #e1e1e1;
+  background: #ffffff;
+  box-shadow: 0px 8px 30px rgba(212, 20, 67, 0.1);
+  border-radius: 24px;
+}
+
+.contacts__category {
+  background-color: #f0d1a5;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.83;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.foodtruck {
+  background-color: #c2e297;
+}
+
+.contacts__location {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.83;
+  letter-spacing: 0.04em;
+  color: #000000;
+}
+
+.contacts__subscribe {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #907e82;
+}
+
+.contacts__day {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.83;
+  color: #000000;
+}
+
+.contacts__time {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.83;
+  color: #ffa5ba;
+}
+
+.contacts__tel,
+.contacts__email {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #907e82;
+}
+.contacts__button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: center;
+  color: #d41443;
+  background-color: #ffffff;
+  border: 0;
+  border-radius: 22px;
+  cursor: pointer;
+  padding: 16px 32px;
+}
